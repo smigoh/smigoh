@@ -1,4 +1,4 @@
-# Hi, I'm Oscar ✦
+# Hi, I'm Oscar Smith N. ✦
 
 Computer Science & descrete mathematics developer building across software, systems, hardware, and technology.
 
@@ -25,6 +25,7 @@ Hardware & Electronics
 
 Development Tools
 `Git` · `GitHub` · `VS Code` · `Terminal` · `VirtualBox`
+
 Data structure & algorythims
 
  ◌ What I Do

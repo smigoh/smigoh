@@ -1,171 +1,107 @@
-<div align="center">
+# smigoh — Personal Developer Profile
 
-# OSCAR SMITH N.
+A concise developer profile for Oscar (GitHub: smigoh). This repository serves as the GitHub profile README and highlights technical interests, skills, and project links.
 
-### Computer Science & IT Developer
+## Table of contents
+- [Overview](#overview)
+- [About me](#about-me)
+- [Skills & tools](#skills--tools)
+- [Selected projects](#selected-projects)
+- [Current focus](#current-focus)
+- [Development notes](#development-notes)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Author](#author)
 
-**Software Development · Linux · Databases · Networking · Hardware**
+## Overview
 
-</div>
+This repository is a personal GitHub profile page. It provides a short introduction to the developer behind the projects, their technical interests, and the areas where they are building experience.
 
----
+## About me
 
-## About Me
+I am a Computer Science and IT developer interested in software development, systems, databases, networking, hardware, and electronics. I enjoy learning different programming languages and applying them to practical problems.
 
-I am a Computer Science and IT developer with an interest in software development, computer systems, databases, networking, hardware, and electronics.
+I work mainly with Kali Linux and Windows 11. I enjoy working with systems, understanding how software interacts with hardware, and learning through hands-on project work.
 
-I work with **C++, Python, Java, JavaScript, HTML, CSS, PHP, VB.NET, and SQL**. I enjoy learning different programming languages and using them to build applications, solve problems, and understand different approaches to software development.
-
-I mainly work with **Kali Linux and Windows 11**. I enjoy working with systems, using the command line, configuring environments, troubleshooting problems, and learning how software interacts with the computer it runs on.
-
-I am also interested in the structure behind software and data, including **data structures, database management, database design, system design, computer hardware, and electronic components**.
-
----
-
-## Technical Skills
+## Skills & tools
 
 ### Programming
 
-<div align="center">
+- C++
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+- PHP
+- VB.NET
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,php&perline=7" />
+### Databases and data
 
-<br><br>
+- SQL
+- MySQL
+- SQLite
+- Database design
+- Data structures
+- Data organization
 
-<img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+### Systems and infrastructure
 
-</div>
+- Kali Linux
+- Windows 11
+- Bash
+- Command line use
+- System configuration
+- Troubleshooting
 
-**C++ · Python · Java · JavaScript · HTML · CSS · PHP · VB.NET**
+### Networking and hardware
 
----
+- TCP/IP
+- DNS
+- Network configuration
+- Network troubleshooting
+- Computer hardware
+- Electronic components
 
-### Databases & Data
+## Selected projects
 
-<div align="center">
+- [Business-Enterprise-inteligence-platform](https://github.com/smigoh/Business-Enterprise-inteligence-platform) — business analytics and reporting concept.
+- [Eagle-Eye](https://github.com/smigoh/Eagle-Eye) — vehicle monitoring and revenue system prototype.
+- [house-hunting-app](https://github.com/smigoh/house-hunting-app) — property discovery and listing platform concept.
+- [Mad-monkey-Flash-drive-proxy-Defender](https://github.com/smigoh/Mad-monkey-Flash-drive-proxy-Defender) — defensive network diagnostics concept.
+- [motors-2d-web-mobile-and-pc-website-classic-marketing](https://github.com/smigoh/motors-2d-web-mobile-and-pc-website-classic-marketing) — classic dealership website concept.
+- [open-cv-sign-language-and-hand-air-writing-](https://github.com/smigoh/open-cv-sign-language-and-hand-air-writing-) — computer vision prototype for gesture and air-writing recognition.
+- [Rubix-Trading-bot](https://github.com/smigoh/Rubix-Trading-bot) — trading and backtesting concept.
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&perline=2" />
+## Current focus
 
-</div>
+Software Development · Data Structures · Database Management · Database Design · System Design · Kali Linux · Windows 11 · Networking · Computer Hardware · Electronics
 
-**SQL · Database Management · Database Design · Data Structures · Data Organization**
+## Development notes
 
-I am interested in designing databases, managing data, understanding relationships between data, and developing efficient ways to store and work with information.
+- Repository purpose: personal GitHub profile README.
+- Current implementation status: profile-only repository.
+- Languages mentioned by the author: C++, Python, Java, JavaScript, HTML, CSS, PHP, VB.NET.
+- Operating systems mentioned: Kali Linux, Windows 11.
+- Main purpose: present skills, interests, and project work clearly and professionally.
 
----
+## Roadmap
 
-### Systems
+- [ ] Add a clear contact section or personal website link.
+- [ ] Add a short list of highlighted projects with one-line descriptions.
+- [ ] Add a portfolio or résumé page for a more detailed project overview.
+- [ ] Add a learning roadmap for current technical goals.
+- [ ] Keep this profile aligned with the actual state of each project repository.
 
-<div align="center">
+## Contributing
 
-<img src="https://skillicons.dev/icons?i=linux,bash,windows&perline=3" />
+This is a personal profile repository. If you want to propose changes, open an issue or pull request with a focused, professional update.
 
-</div>
+## License
 
-**Kali Linux · Windows 11 · Bash · Command Line · System Configuration · Troubleshooting**
+No license has been specified for this repository.
 
----
+## Author
 
-### Web Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php&perline=4" />
-
-</div>
-
-**HTML · CSS · JavaScript · PHP**
-
-I enjoy working on the structure, design, and functionality of websites and web-based applications.
-
----
-
-### Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&perline=4" />
-
-</div>
-
-**Git · GitHub · VS Code · Visual Studio**
-
----
-
-### Networking
-
-**TCP/IP · DNS · Network Configuration · Network Troubleshooting · Network Fundamentals**
-
-I am interested in understanding how computers communicate, how networks are structured, and how to identify and solve common networking problems.
-
----
-
-## Hardware & Electronics
-
-My interests are not limited to software. I also enjoy learning about the physical side of computing and technology.
-
-**Computer Hardware · PC Components · Hardware Troubleshooting · Electronic Components · Circuit Fundamentals · Digital Electronics**
-
-I am interested in understanding how individual components work, how computer systems are assembled, and how hardware and software depend on each other.
-
----
-
-## Design & Development
-
-I am interested in both the technical and structural side of development, including:
-
-* Software design
-* System design
-* Database design
-* Data structures
-* Application development
-* Web development
-* User interface structure
-* Problem solving
-
----
-
-## What I Like to Do
-
-I enjoy working on projects where I can learn something while building something useful.
-
-Sometimes that means writing code, designing a database, working with Linux, developing a website, troubleshooting a computer, or experimenting with hardware and electronic components.
-
-I prefer learning through practice. Building something, finding a problem, understanding why it happened, and fixing it usually teaches me more than simply reading about it.
-
----
-
-## Current Areas of Focus
-
-<div align="center">
-
-`Software Development` · `Data Structures` · `Database Management`
-`Database Design` · `System Design` · `Kali Linux` · `Windows 11`
-`Networking` · `Computer Hardware` · `Electronics`
-
-</div>
-
----
-
-## My Approach
-
-<div align="center">
-
-### Learn · Build · Test · Understand · Improve
-
-</div>
-
-I am still learning and developing my skills, so this profile is also a record of that progress.
-
-I use my projects to put what I learn into practice, experiment with different technologies, and gradually become better at solving technical problems.
-
----
-
-<div align="center">
-
-**Thank you for visiting my profile.**
-
-*Learning through building.*
-
-</div>
-
+GitHub: `smigoh`
